@@ -6,7 +6,7 @@ deploy:
   provider: heroku
   api_key:
     secure: sFPX4gBws62/a1qpbfL4Oz99UNMYrPCzhJy664OArJrPGXXtg+2B/Hb0rsOyYHU51ywylX8f87gGv8yED3CifB1pyD1O0752aSHdc21NoXIU3z+0AGyuekSwItuNfnZ3IYlN2TNeMHj0Bx75jMeOOLp4hZ/lE9XkzjPpqmf6BejS1PVtdMheLfV6KIuWOSPEa0vhHZwW6uddm9I+JGXKCHUkS8Ly9gpwP/AGhUWWQM5E6nuM33HKFDdbthDi6UFNmJgeXL/FSixdpnLJ0mLyU/7FLacdcojWBongCxG1a/Y97HOdDr6Pc8O7+wn5D0gEbgYvDSxxMDkT3kPoeKNYOca0Omhl4jACTrSH+FnUJMQPDZzfHs6c5yBnrm6YuAszvd3lggEHEawU7zM2WOq9iy/To/af+Lfs2T621o0ayytT3RSOfjlsIHgfyPjRH26tXTAGZjyKUFFL7kWz8DOeJe11BZaFX5iuLj37uDYA94Nk0sBUK5IuDZKgPMLbIVD7oREAgCn8CIVXh44Q6bt9+aNR7us+r5hstmG23jtRmS8ZUGrvlsH20KNKhTmZGcQVEQd/spgZV6bVe09QTeYMcqdqzGs7Zo/fjU0hEzS8r1SgtzVx64xcKG5TawXYgQd1ReAn6MIwFpbiIgmaFKmEIdic7uWVml9oaiKykX3f8n0=
-  app: testApp8.0
+  # app: testApp8.0
   app: https://git.heroku.com/salty-everglades-31799.git
   on:
     repo: SCallahan101/testApp8.0
